@@ -17,7 +17,7 @@ npm install @react-navigation/bottom-tabs @react-navigation/native react react-n
 
 
 ## APK
-📥 [Download APK](https://github.com/Vanshi17/BottomNavigator/releases/download/v1/app-release.apk)
+📥 [Download APK](https://github.com/Vanshi17/BottomNavigator/releases/download/v1/app-debug.apk)
 
 
 ## Screenshots
